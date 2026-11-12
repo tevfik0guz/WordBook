@@ -1,4 +1,4 @@
-# WordBook - Kelime Defteri - Tevfik Oğuz - 31. Dönem
+# WordBook - Kelime Defteri - Tevfik Oğuz 
 
 ## Proje Açıklaması
 
